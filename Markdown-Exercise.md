@@ -27,4 +27,9 @@ This is normal
 
 [Markdown Guide site](https://www.markdownguide.org/basic-syntax/)
 
+[Stats by Jim](https://statisticsbyjim.com "click here to get started")
      
+
+[National Business Furniture][mc-link] is a great site to buy furnitures. Please click on the following link [mc-link]
+
+[mc-link]:https://www.nationalbusinessfurniture.com/
