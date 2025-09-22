@@ -33,3 +33,62 @@ This is normal
 [National Business Furniture][mc-link] is a great site to buy furnitures. Please click on the following link [mc-link]
 
 [mc-link]:https://www.nationalbusinessfurniture.com/
+
+
+
+[![Acura Logo](C:\Users\bhadr\Downloads\acura.jpg)](https://www.acura.com/)
+
+
+
+
+
+
+
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("World"))
+```
+
+
+
+
+
+
+do you have any idea what does `print` do in python?
+
+
+
+
+---
+
+
+
+
+
+
+
+
+- [x] Sleep
+- [ ] Train
+- [ ] Workout
+- [ ] read
+
+
+
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Row 1, Col 1      | Row 1, Col2 |
+| Row 2, Col 1      | Row 2, Col 2  |
+
+
+
+---
+
+
+
+The Quadratic Formula is $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
